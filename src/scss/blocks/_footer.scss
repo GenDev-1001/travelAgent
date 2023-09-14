@@ -1,0 +1,38 @@
+.footer {
+	padding: 80px 120px;
+	background-color: var(--text-color);
+	color: var(--page-bg);
+
+	a {
+		color: var(--page-bg);
+	}
+
+	@include mediaTablet {
+		padding: 40px 60px;
+	}
+
+	@include mediaMobile {
+		padding: 20px;
+	}
+}
+
+.footer__row {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	align-items: start;
+	gap: 128px;
+
+	@include mediaMobile {
+		grid-template-columns: 1fr;
+		gap: 40px;
+	}
+}
+
+.footer__copy {
+	display: grid;
+	gap: 24px;
+}
+
+.footer__copy-text {
+	max-width: 300px;
+}

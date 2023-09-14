@@ -1,0 +1,44 @@
+[
+	{
+		"stars": 5,
+		"name": "Jonathan R.",
+		"role": "Travel Enthusiast",
+		"text": "Lorem ipsum dolor sit amet, Efficient and reliable! The travel website helped me find the best travel deals, and their user-friendly interface made the booking process a breeze.",
+		"img": "07"
+	},
+	{
+		"stars": 4,
+		"name": "Angela Cole",
+		"role": "Travel Enthusiast",
+		"text": "I loved the personalized itinerary feature of this travel website. It allowed me to plan my trip according to my preferences, making it a truly customized experience.",
+		"img": "08"
+	},
+	{
+		"stars": 3,
+		"name": "Bambang Susilo",
+		"role": "Travel Enthusiast",
+		"text": "A one-stop-shop for all things travel! The website's variety of travel options and user reviews helped me make informed decisions and ensured a smooth trip.",
+		"img": "09"
+	},
+	{
+		"stars": 5,
+		"name": "Jonathan R.",
+		"role": "Travel Enthusiast",
+		"text": "Lorem ipsum dolor sit amet, Efficient and reliable! The travel website helped me find the best travel deals, and their user-friendly interface made the booking process a breeze.",
+		"img": "07"
+	},
+	{
+		"stars": 4,
+		"name": "Angela Cole",
+		"role": "Travel Enthusiast",
+		"text": "I loved the personalized itinerary feature of this travel website. It allowed me to plan my trip according to my preferences, making it a truly customized experience.",
+		"img": "08"
+	},
+	{
+		"stars": 3,
+		"name": "Bambang Susilo",
+		"role": "Travel Enthusiast",
+		"text": "A one-stop-shop for all things travel! The website's variety of travel options and user reviews helped me make informed decisions and ensured a smooth trip.",
+		"img": "09"
+	}
+]
